@@ -68,4 +68,4 @@ Ao longo deste curso estou desenvolvendo conhecimentos sobre:
 
 ---
 
-**Status:** 🚀 Em andamento
+**Status:** 🚀 Concluído
